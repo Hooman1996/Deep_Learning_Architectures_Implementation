@@ -10,48 +10,48 @@
   - ResNet: Revolutionized deep learning with residual connections
 
 - Key Features
-  ✅ Dual Framework Implementation: All models available in both TensorFlow and PyTorch
-  ✅ From-Scratch Implementation: No reliance on pre-built models (except basic layers)
-  ✅ Modular Design: Easy to adapt and extend for your projects
-  ✅ Training Scripts: Example training pipelines for each architecture
-  ✅ Pre-trained Weights: Available for quick experimentation
+  - ✅ Dual Framework Implementation: All models available in both TensorFlow and PyTorch
+  - ✅ From-Scratch Implementation: No reliance on pre-built models (except basic layers)
+  - ✅ Modular Design: Easy to adapt and extend for your projects
+  - ✅ Training Scripts: Example training pipelines for each architecture
+  - ✅ Pre-trained Weights: Available for quick experimentation
 
-Models Overview
-1. LeNet-5
-The first successful CNN architecture (1998) for digit recognition with:
+- Models Overview
+  - 1. LeNet-5
+    - The first successful CNN architecture (1998) for digit recognition with:
 
-Two convolutional layers
+    - Two convolutional layers
 
-Two subsampling (pooling) layers
+    - Two subsampling (pooling) layers
 
-Three fully connected layers
+    - Three fully connected layers
 
-2. VGG
-The uniform architecture (2014) that showed depth matters with:
+  - 2. VGG
+    - The uniform architecture (2014) that showed depth matters with:
 
-Only 3×3 convolutions
+    - Only 3×3 convolutions
 
-Multiple variants (11 to 19 layers)
+    - Multiple variants (11 to 19 layers)
 
-Simple yet effective design
+    - Simple yet effective design
 
-3. GoogleNet (Inception)
-The efficient architecture (2014) featuring:
+  - 3. GoogleNet (Inception)
+    - The efficient architecture (2014) featuring:
 
-Inception modules (parallel convolutions)
+    - Inception modules (parallel convolutions)
 
-1×1 convolutions for dimensionality reduction
+    - 1×1 convolutions for dimensionality reduction
 
-Auxiliary classifiers for training
+    - Auxiliary classifiers for training
 
-4. ResNet
-The breakthrough architecture (2015) that enabled very deep networks with:
+  - 4. ResNet
+    - The breakthrough architecture (2015) that enabled very deep networks with:
 
-Residual blocks with skip connections
+    - Residual blocks with skip connections
 
-Batch normalization after each conv layer
+    - Batch normalization after each conv layer
 
-Variants from 18 to 152 layers
+    - Variants from 18 to 152 layers
 
 Requirements
 Python 3.7+
