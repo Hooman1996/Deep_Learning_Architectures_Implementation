@@ -1,20 +1,20 @@
 # Deep_Learning_Architectures_Implementation
-This repository contains from-scratch implementations of four foundational convolutional neural network architectures in both TensorFlow and PyTorch
+- This repository contains from-scratch implementations of four foundational convolutional neural network architectures in both TensorFlow and PyTorch
 
-LeNet-5: The pioneering CNN architecture for digit recognition
+  - LeNet-5: The pioneering CNN architecture for digit recognition
 
-VGG: Known for its simplicity and depth using 3x3 convolutions
+  - VGG: Known for its simplicity and depth using 3x3 convolutions
 
-GoogleNet (Inception): Introduced the inception module with parallel convolutions
+  - GoogleNet (Inception): Introduced the inception module with parallel convolutions
 
-ResNet: Revolutionized deep learning with residual connections
+  - ResNet: Revolutionized deep learning with residual connections
 
-Key Features
-✅ Dual Framework Implementation: All models available in both TensorFlow and PyTorch
-✅ From-Scratch Implementation: No reliance on pre-built models (except basic layers)
-✅ Modular Design: Easy to adapt and extend for your projects
-✅ Training Scripts: Example training pipelines for each architecture
-✅ Pre-trained Weights: Available for quick experimentation
+- Key Features
+  ✅ Dual Framework Implementation: All models available in both TensorFlow and PyTorch
+  ✅ From-Scratch Implementation: No reliance on pre-built models (except basic layers)
+  ✅ Modular Design: Easy to adapt and extend for your projects
+  ✅ Training Scripts: Example training pipelines for each architecture
+  ✅ Pre-trained Weights: Available for quick experimentation
 
 Models Overview
 1. LeNet-5
