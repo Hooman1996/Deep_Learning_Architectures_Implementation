@@ -68,11 +68,7 @@ ResNet-50	PyTorch	94.6%	25.5M
 Note: Results may vary based on training hyperparameters
 
 
-Acknowledgments
+Acknowledgments:
 Original papers from LeCun, Simonyan, Szegedy, and He
-
 TensorFlow and PyTorch documentation
-
-Community implementations that inspired this work
-
 Alladin pearson
